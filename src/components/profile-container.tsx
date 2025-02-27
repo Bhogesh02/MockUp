@@ -20,7 +20,7 @@ export const ProfileContainer = () => {
         <UserButton afterSignOutUrl="/" />
       ) : (
         <Link to={"/signin"}>
-          <Button size={"sm"}>Get Started</Button>
+          <Button size={"sm"}>Sing In</Button>
         </Link>
       )}
     </div>

@@ -32,7 +32,7 @@ const Header = () => {
                   )
                 }
               >
-                Take An Interview
+                
               </NavLink>
             )}
           </nav>
